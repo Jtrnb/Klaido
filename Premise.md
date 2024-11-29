@@ -1,0 +1,1 @@
+Everything is Nomadic, the planet has an Ice-Age zone that people must avoid.
