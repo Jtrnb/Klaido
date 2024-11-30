@@ -2,19 +2,19 @@
 ```leaflet  
 ### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)  
 ### id must be unique  
-id: update-me  
-image: [[StillbornPrison150ppi.png]]  
-height: 1000px  
-width: 100%  
+id: main_map  
+image: [[KlaidoMap.png]]  
+height: 400px  
+width: 200%  
 ### This sets where the map starts by default. Set it to the middle (half) of your bounds.  
 lat: 50  
-long: 50  
+long: 100  
 ### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map.  
 minZoom: 0  
 ### Max zoom is 18.  
 maxZoom: 18  
 ### Hover mouse over the Reset Zoom icon to see your current zoom level.  
-defaultZoom: 15  
+defaultZoom: 14.74  
 ### How far it zooms in or out with each step. Can be in decimals.  
 zoomDelta: 0.5  
 ### This is a string so can be any text. Change it to match your maps measurement scale.  
@@ -22,4 +22,7 @@ unit: feet
 scale: 1  
 darkMode: false  
 ```
+
+
+
 
