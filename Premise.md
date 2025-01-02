@@ -1,1 +1,1 @@
-Magic is inherie
+Magic is inherent from plant
